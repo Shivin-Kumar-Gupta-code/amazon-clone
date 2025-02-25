@@ -41,6 +41,9 @@ amazon-clone/
 
 - Add **JavaScript** for interactive features (e.g., search bar, cart functionality)
 - Improve **mobile responsiveness**
+- Add a **user authentication page**
+
+- Integrate **basic animations and transitions for a smoother experience**
 
 ## ⭐ Contribute
 
